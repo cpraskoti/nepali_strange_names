@@ -1,4 +1,4 @@
-# Nepali Strange Names
+# Nepali Strange Names and Nicknames
 
 ![Funny Names](/images/logo.png) 
 

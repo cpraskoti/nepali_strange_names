@@ -46,5 +46,13 @@
         "origin": "Lumbini: Palpa, Nepal",
         "sentiment": "Funny",
         "source": "Grandparents, heard from villagers"
-    }
+    },
+    {
+        "name": "Thug",
+        "variations": "Thug bahadur",
+        "description": "Literal Meaning of Thug is Conman",
+        "origin": "Overall Nepal",
+        "sentiment": "Funny",
+        "source": "Friends"
+    },
 ]
