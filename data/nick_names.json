@@ -35,4 +35,13 @@
         "sentiment": "Funny",
         "source": "TV Series"
     },
+    {
+        "name": "Guithe",
+        "gender": "Male",
+        "variations": "",
+        "description": "Comes from the word 'Guitha' which is dried animal manure.Used to demean people or ",
+        "origin": "Overall Nepal",
+        "sentiment": "Demeaning",
+        "source": "Heard from villagers"
+    },
 ]
