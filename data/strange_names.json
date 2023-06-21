@@ -1,6 +1,7 @@
 [
     {
         "name": "Chopendra",
+        "gender": "Male",
         "variations": "Chop Bahadur",
         "description": "Just sounds funny. Once used in the movie called Bul Bul.",
         "origin": "Western regions of Nepal. Arghakhachi, Palpa",
@@ -9,6 +10,7 @@
     },
     {
         "name": "Hunjeu",
+        "gender": "Male",
         "variations": "Hunjeu Baje",
         "description": "The person used to always say: Hunn, Jiu! Jiu! during convertation. So people started calling him Hunjeu.",
         "origin": "Lumbini: Palpa",
@@ -17,6 +19,7 @@
     },
     {
         "name": "Ghanshingh",
+        "gender": "Male",
         "variations": "",
         "description": "There was a lama(Jhakri) in a remote village of Palpa.Composed of: Ghan (Hmmer) + Shingh (Horn).",
         "origin": "Lumbini:Palpa, Nepal",
@@ -25,6 +28,7 @@
     },
     {
         "name": "Kokale",
+        "gender": "Male",
         "variations": "Kolale Baje",
         "description": "Person from village called Kokaldhara.",
         "origin": "Lumbini: Plapa, Nepal",
@@ -33,6 +37,7 @@
     },
     {
         "name": "Dolakh",
+        "gender": "Male",
         "variations": "Dolakhe",
         "description": "Some funny name",
         "origin": "Lumbini: Palpa,Nepal",
@@ -41,6 +46,7 @@
     },
     {
         "name": "Ghan",
+        "gender": "Male",
         "variations": "Ghan Bahadur",
         "description": "Literal meaning of Ghan is Hammer.",
         "origin": "Lumbini: Palpa, Nepal",
@@ -49,6 +55,7 @@
     },
     {
         "name": "Thug",
+        "gender": "Male",
         "variations": "Thug bahadur",
         "description": "Literal Meaning of Thug is Conman",
         "origin": "Overall Nepal",

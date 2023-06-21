@@ -1,6 +1,7 @@
 [
     {
         "name": "Dhurmuse",
+        "gender": "Male",
         "variations": "Dhurmus, Dhurmu",
         "description": "A character name from Nepali tv Series called Merri Bassai",
         "origin": "Overall Nepal",
@@ -10,6 +11,7 @@
     {
         "name": "Magnebudha",
         "variations": "Magne",
+        "gender": "Male",
         "description": "A character name from Nepali tv Series called Merri Bassai.",
         "origin": "Overall Nepal",
         "sentiment": "Funny",
@@ -17,6 +19,7 @@
     },
     {
         "name": "Dhundukari",
+        "gender": "Male",
         "variations": "Dhundu",
         "description": "A character name from Nepali tv Series called Merri Bassai. Son of Magne Budha",
         "origin": "Overall Nepal",
@@ -25,6 +28,7 @@
     },
     {
         "name": "Bandre",
+        "gender": "Male",
         "variations": "",
         "description": "A character name from Nepali tv Series called Merri Bassai. Brother in law of Magne Budha",
         "origin": "Overall Nepal",

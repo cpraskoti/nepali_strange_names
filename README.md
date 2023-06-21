@@ -17,6 +17,7 @@ We encourage and welcome contributions from anyone who encounters a name that fi
 3. In the `data` directory, add a new file named `<name>.json`, where `<name>` is the name you encountered (e.g., `John_Doe.json`).
 4. Inside the JSON file, structure the data with the following fields:
    - `name`: The strange or funny name you discovered.
+   - `gender`: Gender of the person.(Optional)
    - `variations`: Other variations of name (Optional). Separate names by comma if multiple.
    - `description`: A brief description or context about the name (optional).
    - `origin`: The cultural or geographical origin of the name (optional).
@@ -41,6 +42,7 @@ The dataset is maintained in JSON format to allow flexibility and ease of use. E
 ```json
 {
   "name": "Ghanshingh",
+  "gender": "Male",
   "variations": "Ghane, Ghan Bahadur",
   "description": "The person was a Priest in our village. The      name  is composed of two parts: Ghan (Hammer) + Shingh (Horn)",
   "origin": "Lumbini, Palpa, Nepal",
