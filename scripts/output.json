@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Chopendra",
+        "variations": "Chop Bahadur",
+        "description": "Just sounds funny. Once used in the movie called Bul Bul.",
+        "origin": "Western regions of Nepal. Arghakhachi, Palpa",
+        "sentiment": "Funny"
+    },
+    {
+        "name": "Hunjeu",
+        "variations": "Hunjeu Baje",
+        "description": "The person used to always say: Hunn, Jiu! Jiu! during convertation. So people started calling him Hunjeu.",
+        "origin": "Lumbini: Palpa",
+        "sentiment": "Funny"
+    },
+    {
+        "name": "Ghanshingh",
+        "variations": "",
+        "description": "There was a lama(Jhakri) in a remote village of Palpa.Composed of: Ghan (Hmmer) + Shingh (Horn).",
+        "origin": "Lumbini:Palpa, Nepal",
+        "sentiment": "Funny"
+    },
+    {
+        "name": "Kokale",
+        "variations": "Kolale Baje",
+        "description": "Person from village called Kokaldhara.",
+        "origin": "Lumbini: Plapa, Nepal",
+        "sentiment": "Funny"
+    },
+    {
+        "name": "Dolakh",
+        "variations": "Dolakhe",
+        "description": "Some funny name",
+        "origin": "Lumbini: Palpa,Nepal",
+        "sentiment": "Funny"
+    },
+    {
+        "name": "Ghan",
+        "variations": "Ghan Bahadur",
+        "description": "Literal meaning of Ghan is Hammer. Mj\u00f6lnir (Thors Hammer)",
+        "origin": "Lumbini: Palpa, Nepal",
+        "sentiment": "Funny"
+    }
+]
