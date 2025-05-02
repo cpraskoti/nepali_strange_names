@@ -1,7 +1,5 @@
 # Nepali Strange Names and Nicknames
 
-![Funny Names](/images/logo.png) 
-
 Welcome to the Strange Nepali Names Dataset repository! This project aims to collect and curate a dataset of peculiar, amusing, and rare names from around the world. Whether you've encountered a hilarious name in a book, stumbled upon an amusing moniker on social media, or heard of a unique name from a friend, this repository is the perfect place to contribute and share these gems.
 
 ## Motivation
